@@ -1,16 +1,16 @@
-## Welcome to GitHub Pages
+Jie Zhang is currently an associate professor in School of Computer and Information Engineering at Beijing Technology and Business University, China. Before joining BTBU, she received her MSc and PhD from Beihang University, Beijing, China in Jan. 2014 and June 2018, advised by Prof. Junhua Sun. During 2016-2018, she was a visiting PhD student at The University of Edinburgh, UK under the supervision of Prof. Robert B. Fisher, where she investigated 3D lip motion and its behaviometrics. Her research interests lie at computer vision, pattern recognition, and 3D vision measurement. She was awarded Excellent Graduate of Beijing, National Fellowship of China in 2014, CSC Fellowship in 2016, National Natural Science Funding of China in 2019.
 
-You can use the [editor on GitHub](https://github.com/zhangjie-beijing/zhangjie-beijing.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Ongoing Funding & Projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+National Science Funding of China, "3D lip motion and", 2019-2021
 
-### Markdown
+### Research 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Teaching
 
-```markdown
-Syntax highlighted code block
-
+1. Advanced Visual Detection Technology, 2018 Fall
+2. Micromachine Principal, 2019 Spring
+3. Deep learning, 2020 (for overseas postgraduates, forthcoming)
 # Header 1
 ## Header 2
 ### Header 3
